@@ -1,4 +1,3 @@
-Este código no entendí donde lo te go que colocar 
 const express = require('express');
 const bodyParser = require('body-parser');
 const multer = require('multer');
